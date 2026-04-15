@@ -15,6 +15,7 @@ public class calculadora_de_restos {
         else{
             System.out.println("O resto da Divisão é: "+ x%x2);
         }
+        sm.close();
     }
 
 }
