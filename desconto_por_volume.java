@@ -14,6 +14,6 @@ public class desconto_por_volume {
         else {
             System.out.println("Sem desconto aplicado: "+ ba);
         }
-        sm.close();
+        sc.close();
     }
 }
