@@ -13,6 +13,6 @@ public class Verificação_de_login {
         else {
             System.out.println("Acesso permitido ");
         }
-        sm.close();
+        sc.close();
     }
 }
