@@ -17,6 +17,7 @@ public class comparação_de_valores {
             System.out.println("O número 1 é o maior");
 
         }
+        sm.close();
 
     }
 }
